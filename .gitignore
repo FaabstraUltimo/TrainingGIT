@@ -1,1 +1,3 @@
 *.backup
+FileServiceData/Packages/*auto*
+FileServiceData/*Designer/
